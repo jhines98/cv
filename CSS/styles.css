@@ -1,0 +1,28 @@
+  body {
+    background-color: #1F2833;
+  }
+
+  hr {
+    background-color: #45a29e;
+    border-style: none;
+    height: 2px;
+    width: 100%;
+    opacity: 50%;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #66FCF1;
+  }
+
+  p, a, li, td, th, label {
+    color: white;
+    font: 14px Verdana, sans-serif;
+  }
+
+  table{
+    border-color: #45a29e;
+    border-width: 2px;
+    border-style: dashed;
+  }
